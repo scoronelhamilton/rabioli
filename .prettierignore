@@ -1,0 +1,10 @@
+lottie
+lotties
+node_modules
+.next
+.idea
+.vscode
+.husky
+.vercel
+.changeset
+.react-router
